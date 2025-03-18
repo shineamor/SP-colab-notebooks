@@ -12,29 +12,16 @@ Special thanks to the contributors of the original repository for their great wo
 
 | Notebook Name                  | Description                                  |
 |---------------------------------|----------------------------------------------|
-| `qcnn_SAM_denoising.ipynb`      | Quaternion CNN with Spatial Attention for denoising |
-| `qcnn_denoising.ipynb`          | Quaternion CNN based denoising model         |
-| `tcnn.ipynb`                    | Traditional CNN model for signal denoising   |
-| `tcnn_SAM.ipynb`                | Traditional CNN with Spatial Attention Model for denoising |
+| `qcnn_SAM_denoising.ipynb`      | Quaternion CNN with Spatial Attention Module |
+| `qcnn_denoising.ipynb`          | Quaternion CNN                               |
+| `tcnn.ipynb`                    | Traditional CNN                              |
+| `tcnn_SAM.ipynb`                | Traditional CNN with Spatial Attention Module|
 
 ## Getting Started
 
 ### 🔹 Open in Google Colab
 1. Click on any `.ipynb` file to open it in Google Colab.
 2. You can run the notebooks directly from Colab without any installation.
-
-### 🔹 Running Locally
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/shineamor/SP-colab-notebooks.git
-    ```
-2. Make sure you have the required dependencies installed:
-    ```bash
-    pip install tensorflow numpy pandas matplotlib
-    ```
-
-### 🔹 Open in Google Colab
-You can open the notebooks directly in Google Colab for interactive execution.
 
 ## Contributing
 
