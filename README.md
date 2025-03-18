@@ -4,12 +4,9 @@ This repository contains a collection of Google Colab notebooks for Image Denois
 
 ## Acknowledgments
 
-## Acknowledgments
-
 This repository is based on code from the [QuaternionCNN_Keras](https://github.com/XYZ387/QuaternionCNN_Keras/tree/master) repository. The original work provided the foundational model for **image denoising**, and I have added the **Spatial Attention Module (SAM)** and made several tweaks to improve the model's performance.
 
 Special thanks to the contributors of the original repository for their great work, which laid the groundwork for this project.
-
 
 ## Notebooks Overview
 
